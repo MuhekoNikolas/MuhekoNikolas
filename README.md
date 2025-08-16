@@ -1,6 +1,6 @@
 ### Hi there My Name is Muheko Nikolus 👋
        Moo-heh-koh NEE-koh-lahs
-- 🏫 I’m currently planning to attend robotics at NTNU.
+- 🏫 I’m currently studying robotics at NTNU.
 - ❤️ I love collaborating on automation and Number theory projects. 
 - ⚽ I love spending time with family, reading, taekwondo, and working on number theory problems.
 - 💬 Ask me about Technology, Automation, and Prime numbers.
