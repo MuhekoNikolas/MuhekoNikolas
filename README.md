@@ -39,4 +39,3 @@
 </details>
 
 -----
-Credits: [roshanlam](https://github.com/roshanlam)
